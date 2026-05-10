@@ -1,0 +1,19 @@
+bulk-jpg-converter/
+│
+├── server.js
+├── package.json
+│
+├── public/
+│   └── index.html
+│
+├── temp/
+├── converted/
+└── reports/
+
+
+
+
+
+
+
+http://localhost:3000
